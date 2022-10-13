@@ -8,8 +8,8 @@ st.title('Heart related deaths in Football')
 PAGELIST = {
     "Home": home,
     "Article": article,
-    "Contact Me": contact,
-    "Visualizations":visualize
+    "Contact Me": contact
+    # "Visualizations":visualize
 }
 
 
