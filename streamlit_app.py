@@ -3,7 +3,7 @@ import streamlit as st
 
 import home, article, contact, visualize
 
-st.title('Heart related deaths in Football')
+# st.title('Heart related deaths in Football')
 
 PAGELIST = {
     "Home": home,
